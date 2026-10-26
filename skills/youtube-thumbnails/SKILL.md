@@ -34,6 +34,8 @@ Ask, in one message:
 2. Who is on the thumbnail? Put their photo(s) in `~/youtube-thumbnails/headshots/` (clear face, good light, any background). Different expressions help.
 3. Any logos, screenshots or products to show? Put them in `~/youtube-thumbnails/assets/` and say which - or none.
 
+**Remy's channel:** the person on the thumbnail is always Remy. His photos are in Remy's B-roll folder on Frame.io (project "Remy's Business Clips"); download the best face shots into `~/youtube-thumbnails/headshots/` as `remy-<expression>.jpg` if they aren't there yet.
+
 Then `ls` both folders. With several headshots, pick the expression that fits the angle: surprised → shock/"you're doing it wrong"; pointing → tutorial; smiling → transformation/result; serious → authority.
 
 ## Step 2 - Cut out the headshot
