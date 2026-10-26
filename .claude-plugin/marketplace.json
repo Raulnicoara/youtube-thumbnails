@@ -1,0 +1,11 @@
+{
+  "name": "youtube-thumbnails",
+  "owner": {"name": "Raul Nicoara"},
+  "plugins": [
+    {
+      "name": "youtube-thumbnails",
+      "source": "./",
+      "description": "Free YouTube thumbnail designer: competitor research, 4 concepts, local rendering from your real headshot. No API keys."
+    }
+  ]
+}
